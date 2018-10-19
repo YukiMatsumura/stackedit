@@ -53,3 +53,18 @@ Support StackEdit:
   [3]: https://github.com/benweet/stackedit/blob/master/doc/developer-guide.md#developer-guide "Developer guide"
   [4]: https://github.com/benweet/stackedit/blob/master/doc/theming.md#stackedit-theming-guide "Theming guide"
   [5]: https://stackedit.io/ "StackEdit"
+  
+
+```
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm start
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+```
